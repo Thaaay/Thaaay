@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python3&logoColor=FFB6C1&labelColor=0D1117)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=MySql&labelColor=0D1117)&nbsp;
 ![Aws](https://img.shields.io/badge/-Aws-0D1117?style=for-the-badge&logo=Aws&labelColor=0D1117)&nbsp;
-![RPA](https://img.shields.io/badge/-RPA-0D1117?style=for-the-badge&logo=RPA&labelColor=0D1117)&nbsp;
+![JavaScript]()&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
