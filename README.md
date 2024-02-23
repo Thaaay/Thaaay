@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thaynara+Pozzer+Gimenes;I'm+25+years+old;I+from+Brasil,+SP;I+study+systems+development+at+Unifeob;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thaynara+Pozzer+Gimenes;I'm+26+years+old;I+from+Brasil,+SP;I'm+graduated+systems+development+at+Unifeob;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Thaaay&show_icons=true&count_private=true&hide_border=true&title_color=DB7093&&icon_color=DB7093&&text_color=c9d1d9&bg_color=000000&" alt="Thaynara github stats" /> 
