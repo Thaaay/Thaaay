@@ -32,7 +32,7 @@
 
   
 ### Studying in this moment:
-![FLUTTER/DART]&nbsp;
+FLUTTER/DART&nbsp;
 
 
   <div align="center">
