@@ -23,7 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&logoColor=FFB6C1)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![MySql](https://img.shields.io/badge/-MySql-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Aws](https://img.shields.io/badge/-Aws-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B)
 
 ### 🧰 Tools:
 ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
@@ -31,8 +31,7 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
 
 ### 📚 Studying:
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 ---
 
