@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+EU+SOU+a+Thaynara;28+anos;Campinas,+Brasil;Desenvolvedora+de+Sistemas;Seja+Bem-vindo(a)!+:%29" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=D8BFD8&size=35&center=true&vCenter=true&width=1000&lines=HI!,+Welcome!+:%29" />
 </div>
 
 <div align="center">  
